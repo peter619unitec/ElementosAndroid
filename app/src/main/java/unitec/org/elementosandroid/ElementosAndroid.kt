@@ -9,4 +9,7 @@ class ElementosAndroid : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_elementos_android)
     }
+
+
+
 }
