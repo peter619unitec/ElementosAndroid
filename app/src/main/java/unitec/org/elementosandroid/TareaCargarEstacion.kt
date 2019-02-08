@@ -32,7 +32,7 @@ class TareaCargarEstacion(private var ctx: Context?)
 
             // estacion = maper.readValue(respuesta, Estatus::class.java)
 
-////
+//////
             println("DESPUES DE REST");
         } catch (t: Throwable) {
 
